@@ -1,1 +1,3 @@
-public class Seven.java
+public class Seven{
+    int r = 7;
+}
