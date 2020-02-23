@@ -5,4 +5,5 @@ public class Five {
     String e = "eeeeeeeeee!";
     String p = "impossible!";
     String t = "twist!";
+    String u = "UFO!";
 }
