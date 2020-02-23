@@ -4,4 +4,5 @@ public class Five {
     String w = "look rainbow!";
     String e = "eeeeeeeeee!";
     String p = "impossible!";
+    String t = "twist!";
 }
